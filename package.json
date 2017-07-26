@@ -2,7 +2,7 @@
   "name": "passport-ebay-oauth",
   "version": "1.0.0",
   "description": "eBay oAuth authentication strategy for Passport and Node.js",
-  "main": "index.js",
+  "main": "./lib",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -30,5 +30,9 @@
   "bugs": {
     "url": "https://github.com/Fibulous/passport-ebay-oauth/issues"
   },
-  "homepage": "https://github.com/Fibulous/passport-ebay-oauth#readme"
+  "homepage": "https://github.com/Fibulous/passport-ebay-oauth#readme",
+  "dependencies": {
+    "passport-oauth2": "1.4.0",
+    "utils-merge": "1.0.0"
+  }
 }
