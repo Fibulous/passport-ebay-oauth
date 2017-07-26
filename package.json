@@ -1,0 +1,34 @@
+{
+  "name": "passport-ebay-oauth",
+  "version": "1.0.0",
+  "description": "eBay oAuth authentication strategy for Passport and Node.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Fibulous/passport-ebay-oauth.git"
+  },
+  "keywords": [
+    "ebay",
+    "passportjs",
+    "oauth"
+  ],
+  "contributors": [
+    {
+      "name": "Steven Booth",
+      "email": "steven.booth@flowxo.com"
+    },
+    {
+      "name": "Roberto Oliveros",
+      "email": "robertooliveros@mac.com",
+      "url": "http://roboli.space"
+    }
+  ],
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Fibulous/passport-ebay-oauth/issues"
+  },
+  "homepage": "https://github.com/Fibulous/passport-ebay-oauth#readme"
+}
